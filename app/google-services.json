@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "687603544398",
+    "project_id": "bt2t5-4bae4",
+    "storage_bucket": "bt2t5-4bae4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687603544398:android:a148573c4c4235f9702e1f",
+        "android_client_info": {
+          "package_name": "com.example.bt2t5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687603544398-o0jthk0nia594o2nq8qu276dt98736si.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bt2t5",
+            "certificate_hash": "f3fdad3af2a151847a8ead464e9bac7ce0eaa656"
+          }
+        },
+        {
+          "client_id": "687603544398-vq775ng4hb0bvhtfebgg3bo0ho0qql5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWrUSFin-kon1a2_dGxyHwvz4pRSVGbEI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687603544398-vq775ng4hb0bvhtfebgg3bo0ho0qql5i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
